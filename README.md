@@ -1,4 +1,4 @@
-# **README: STM32 RTOS LED Control Project**
+# **STM32 RTOS LED Control Project**
 
 ## **Project Overview**
 This project demonstrates the use of FreeRTOS on an STM32 microcontroller to control multiple LEDs (Green, Red, and Orange). The system is designed to showcase the following features:
